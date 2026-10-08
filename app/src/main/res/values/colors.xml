@@ -9,5 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <!---New Color-->
     <color name="card_dosen">#616161</color>
+    <color name="card_mhs1">#7E4BD8</color>
 
 </resources>
