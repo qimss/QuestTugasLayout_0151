@@ -5,8 +5,10 @@ import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -45,6 +47,7 @@ fun MainDashboard(modifier : Modifier = Modifier){
             fontSize = 16.sp,
             fontWeight = FontWeight.Bold
         )
+        Spacer(modifier = Modifier.height(20.dp))
         CardMhs(
             Nama = stringResource(R.string.nama_dosen),
             UkuranFontNama = 22.sp,
@@ -88,9 +91,10 @@ fun MainDashboard(modifier : Modifier = Modifier){
         ) {
             Text(
                 text = stringResource(R.string.copy),
+                fontSize = 12.sp,
                 modifier = Modifier
                     .align(Alignment.BottomCenter)
-                    .padding(bottom = 24.dp)
+                    .padding(bottom = 36.dp)
             )
         }
     }
@@ -130,7 +134,7 @@ fun CardMhs(
                 modifier = Modifier.size(90.dp)
             )
             Column(
-                modifier= Modifier.weight(1f).padding(horizontal = 12.dp)
+                modifier= Modifier.weight(1f).padding(horizontal = 16.dp)
             ){
                 Text(
                     text = Nama,
