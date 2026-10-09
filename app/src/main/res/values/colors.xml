@@ -7,7 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <!---New Color-->
+    <color name="warna_alamat">#FFFF00</color>
+    <color name="warna_nohp">#00FFFF</color>
     <color name="card_dosen">#616161</color>
     <color name="card_mhs1">#7E4BD8</color>
     <color name="card_mhs2">#0000FF</color>
