@@ -129,7 +129,7 @@ fun CardMhs(
             horizontalArrangement = Arrangement.SpaceBetween
         ) {
             Image(
-                painterResource(R.drawable.umy),
+                painterResource(R.drawable.logo),
                 contentDescription = null,
                 modifier = Modifier.size(90.dp)
             )
@@ -157,7 +157,7 @@ fun CardMhs(
                 )
             }
             Image(
-                painterResource(R.drawable.umy),
+                painterResource(R.drawable.logo),
                 contentDescription = null,
                 modifier = Modifier.size(90.dp)
             )

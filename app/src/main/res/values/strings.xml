@@ -1,17 +1,17 @@
 <resources>
     <string name="app_name">AssigmentLayoutApp</string>
-    <string name="prodi">Teknologi Informasi</string>
-    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
-    <string name="nama_mhs1">Gibran Fathoni</string>
-    <string name="nama_dosen">Bambang Sumantri</string>
-    <string name="alamat_dosen">Turi, Sleman</string>
-    <string name="nohp_mhs1">085436874190</string>
-    <string name="alamat_mhs1">Kasihan, Bantul</string>
-    <string name="nama_mhs2">Zhilal Fadhilah</string>
-    <string name="nohp_mhs2">085436874190</string>
-    <string name="alamat_mhs2">Depok, Sleman</string>
-    <string name="nama_mhs3">Ahmad Alfian</string>
-    <string name="nohp_mhs3">085436874190</string>
-    <string name="alamat_mhs3">Gamping, Sleman</string>
+    <string name="prodi">Computer Science</string>
+    <string name="univ">Tsinghua University</string>
+    <string name="nama_dosen">Steve Johan</string>
+    <string name="alamat_dosen">Shanghai, China</string>
+    <string name="nama_mhs1">Johan Liberty</string>
+    <string name="nohp_mhs1">+302105550182</string>
+    <string name="alamat_mhs1">Ohio, US</string>
+    <string name="nama_mhs2">Thompson Rodrigez</string>
+    <string name="nohp_mhs2">+1(216)5550143</string>
+    <string name="alamat_mhs2">Antropolis, Greek</string>
+    <string name="nama_mhs3">Joker Terbang</string>
+    <string name="nohp_mhs3">+1(201)5550199</string>
+    <string name="alamat_mhs3">Gotham City</string>
     <string name="copy">Copyright, 2026</string>
 </resources>
